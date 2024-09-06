@@ -1,7 +1,7 @@
 <h1 align="center"> Hola 👋, Soy Joel Abregu Manrique</h1>
 
 <a target="_blank" href="https://joelabregu.github.io/Portafolio/">
-    <img src="https://github.com/StefanosSt/StefanosSt/blob/main/Group%203.png" alt="Portafolio de Joel Abregu" />
+    <img src="https://github.com/JoelAbregu/JoelAbregu/blob/main/FINNES%20JOEL%20ABREGU%20MANRIQUE.png" alt="Portafolio de Joel Abregu" />
 </a>
 
 <p align="center">
