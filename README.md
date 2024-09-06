@@ -1,4 +1,4 @@
-<h1 align="center"> Hola 👋, Soy Joel Abregu Manrique</h1>
+<h1 align="center"> Hola 👋, Soy Joel Abregu</h1>
 
 <a target="_blank" href="https://joelabregu.github.io/Portafolio/">
     <img src="https://github.com/JoelAbregu/JoelAbregu/blob/main/FINNES%20JOEL%20ABREGU%20MANRIQUE.png" alt="Portafolio de Joel Abregu" />
