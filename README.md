@@ -6,7 +6,7 @@
 
 <p align="center">
     <a href="https://github.com/joelabregu">
-        <img src="https://readme-typing-svg.herokuapp.com/?lines=Ingeniero+de+Software;Desarrollador+Frontend;Flutter+|+Dart+|+JavaScript+Entusiasta;Bases+de+Datos+|+Analista;Siempre+aprendiendo+nuevas+tecnologías&center=true&width=400&height=45">
+        <img src="https://readme-typing-svg.herokuapp.com/?lines=Ingeniero+de+Software;Desarrollador+Frontend;Flutter+|+Dart+|+JavaScript+Entusiasta;Bases+de+Datos+|+Analista;Siempre+aprendiendo+nuevas+tecnologías&center=true&width=500&height=45">
     </a>
 </p>
 
