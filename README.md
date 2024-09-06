@@ -1,6 +1,6 @@
 <h1 align="center"> Hola 👋, Soy Joel Abregu</h1>
 
-<a target="_blank" href="[https://www.stefanosst.gr](https://joelabregu.github.io/Portafolio/)"><img src="https://github.com/StefanosSt/StefanosSt/blob/main/Group%203.png"/></a>
+<a target="_blank" href="https://joelabregu.github.io/Portafolio/"><img src="https://github.com/StefanosSt/StefanosSt/blob/main/Group%203.png"/></a>
 
 <p align="center">
 	<a href="https://github.com/Bouaskaoun">
