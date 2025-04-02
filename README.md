@@ -1,14 +1,6 @@
 <h1 align="center"> Hola 👋, Soy Joel Abregu</h1>
 
-<a target="_blank" href="https://joelabregu.github.io/Portafolio/">
-    <img src="https://github.com/JoelAbregu/JoelAbregu/blob/main/FINNES%20JOEL%20ABREGU%20MANRIQUE.png" alt="Portafolio de Joel Abregu" />
-</a>
-
-<p align="center">
-    <a href="https://github.com/joelabregu">
-        <img src="https://readme-typing-svg.herokuapp.com/?lines=Ingeniero+de+Software;Desarrollador+Frontend;Flutter+|+Dart+|+JavaScript+Entusiasta;Bases+de+Datos+|+Analista;Siempre+aprendiendo+nuevas+tecnologías&center=true&width=500&height=45">
-    </a>
-</p>
+<div align="center"> <a target="_blank" href="https://joelabregu.github.io/Portafolio/"> <img src="https://github.com/JoelAbregu/JoelAbregu/blob/main/FINNES%20JOEL%20ABREGU%20MANRIQUE.png" alt="Portafolio de Joel Abregu" width="600px" style="border-radius: 10px; box-shadow: 4px 4px 15px rgba(0, 0, 0, 0.2);"/> </a> </div> <p align="center"> <a href="https://github.com/joelabregu"> <img src="https://readme-typing-svg.herokuapp.com/?lines=👨‍💻+Ingeniero+de+Software;🚀+Desarrollador+Frontend;💙+Flutter+|+Dart+|+JavaScript;📊+Bases+de+Datos+|+Analista;🎯+Siempre+aprendiendo+nuevas+tecnologías&center=true&width=500&height=50"> </a> </p>
 
 <pre>
 💻 Actualmente desarrollando habilidades como Analista de Soporte N2 en tecnología
