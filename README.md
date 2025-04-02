@@ -14,7 +14,7 @@
 <!-- ✨ Texto animado -->
 <p align="center">
     <a href="https://github.com/joelabregu">
-        <img src="https://readme-typing-svg.herokuapp.com/?lines=👨‍💻+Ingeniero+de+Software;🚀+Desarrollador+Frontend;💙+Flutter+|+Dart+|+JavaScript;📊+Bases+de+Datos+|+Analista;🎯+Siempre+aprendiendo+nuevas+tecnologías&center=true&width=500&height=50&font=Poppins&weight=700">
+        <img src="https://readme-typing-svg.herokuapp.com/?lines=👨‍💻+Ingeniero+de+Software;🚀+Desarrollador+Frontend;💙+Flutter+|+Dart+|+Python;📊+Bases+de+Datos+|+Analista;🎯+Siempre+aprendiendo+nuevas+tecnologías&center=true&width=500&height=50&font=Poppins&weight=700">
     </a>
 </p>
 
@@ -24,12 +24,11 @@
 ## 💡 Sobre mí
 
 - 📌 Actualmente desarrollando habilidades como **Analista de Soporte N2 en tecnología**  
-- 📚 Ingeniero de Software y estudiante de **Ingeniería de Sistemas**  
-- 📝 Apasionado por la **creación de soluciones de software centradas en el usuario**  
-- 🔭 Trabajando en **desarrollo de aplicaciones móviles y web**  
+- 📚 Ingeniero de Software y estudiante de **Ingeniería de Sistemas**    
+- 🔭 Trabajando en **desarrollo de aplicaciones móviles y paginas web**  
 - 🌱 Enfocado en **optimización de procesos y experiencia del usuario**  
 - 🌟 Lenguajes principales: **Dart, JavaScript, Python**  
-- 🚩 Interesado en **Machine Learning y análisis de datos**  
+- 🚩 Interesado en **creación, analisis y gestión de base de datos**  
 
 ---
 
