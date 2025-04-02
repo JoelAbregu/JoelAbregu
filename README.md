@@ -1,5 +1,8 @@
 <!-- 💡 Encabezado centrado -->
-<h1 align="center">🌟 Hola, soy Joel Abregu 👋</h1>
+<p align="center">
+    <img src="https://fakeimg.pl/600x100/?text=Hola%20Soy%20Joel&font=Poppins" alt="Hola Soy Joel en Poppins">
+</p>
+
 
 <!-- 🎨 Imagen del portafolio con estilos mejorados -->
 <div align="center">
