@@ -1,5 +1,5 @@
 <!-- 💡 Encabezado centrado -->
-<h1 align="center" >🌟 Hola, soy Joel Abregu 👋</h1>
+<h1 align="center" >Hola, soy Joel Abregu 👋</h1>
 
 <!-- 🎨 Imagen del portafolio con estilos mejorados -->
 <div align="center">
