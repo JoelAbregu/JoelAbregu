@@ -1,5 +1,5 @@
 <!-- 💡 Encabezado centrado -->
-<h1 align="center">🌟 Hola, soy Joel Abregu 👋</h1>
+<h1 align="center" >🌟 Hola, soy Joel Abregu 👋</h1>
 
 <!-- 🎨 Imagen del portafolio con estilos mejorados -->
 <div align="center">
@@ -14,9 +14,10 @@
 <!-- ✨ Texto animado -->
 <p align="center">
     <a href="https://github.com/joelabregu">
-        <img src="https://readme-typing-svg.herokuapp.com/?lines=👨‍💻+Ingeniero+de+Software;🚀+Desarrollador+Frontend;💙+Flutter+|+Dart+|+JavaScript;📊+Bases+de+Datos+|+Analista;🎯+Siempre+aprendiendo+nuevas+tecnologías&center=true&width=500&height=50">
+        <img src="https://readme-typing-svg.herokuapp.com/?lines=👨‍💻+Ingeniero+de+Software;🚀+Desarrollador+Frontend;💙+Flutter+|+Dart+|+JavaScript;📊+Bases+de+Datos+|+Analista;🎯+Siempre+aprendiendo+nuevas+tecnologías&center=true&width=500&height=50&font=Poppins&weight=700">
     </a>
 </p>
+
 
 ---
 
