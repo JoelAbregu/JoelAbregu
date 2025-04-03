@@ -3,7 +3,7 @@
     <a target="_blank" href="https://joelabregu.github.io/Portafolio/">
         <img src="https://github.com/JoelAbregu/JoelAbregu/blob/main/PORTAFOLIO-BANNER.png" 
              alt="Portafolio de Joel Abregu" 
-             width="600px"
+             width="100%"
              style="border-radius: 50px; box-shadow: 4px 4px 15px rgba(0, 0, 0, 0.2);"/>
     </a>
 </div>
