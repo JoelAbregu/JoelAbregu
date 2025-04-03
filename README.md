@@ -7,7 +7,7 @@
              style="border-radius: 50px; box-shadow: 4px 4px 15px rgba(0, 0, 0, 0.2);"/>
     </a>
 </div>
-
+</br>
 <!-- ✨ Texto animado -->
 <p align="center">
     <a href="https://github.com/joelabregu">
