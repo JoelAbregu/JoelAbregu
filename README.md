@@ -1,7 +1,7 @@
 <!-- 🎨 Imagen del portafolio con estilos mejorados -->
 <div align="center">
     <a target="_blank" href="https://joelabregu.github.io/Portafolio/">
-        <img src="https://github.com/JoelAbregu/JoelAbregu/blob/main/PORTAFOLIO-BANNER.png" 
+        <img src="https://github.com/JoelAbregu/JoelAbregu/blob/main/JOEL ABREGU.png" 
              alt="Portafolio de Joel Abregu" 
              width="100%"
              style="border-radius: 50px; box-shadow: 4px 4px 15px rgba(0, 0, 0, 0.2);"/>
