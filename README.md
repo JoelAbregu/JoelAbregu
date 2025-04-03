@@ -1,13 +1,10 @@
-<!-- 💡 Encabezado centrado -->
-<h1 align="center" >Hola, soy Joel Abregu 👋</h1>
-
 <!-- 🎨 Imagen del portafolio con estilos mejorados -->
 <div align="center">
     <a target="_blank" href="https://joelabregu.github.io/Portafolio/">
         <img src="https://github.com/JoelAbregu/JoelAbregu/blob/main/PORTAFOLIO-BANNER.png" 
              alt="Portafolio de Joel Abregu" 
              width="600px"
-             style="border-radius: 10px; box-shadow: 4px 4px 15px rgba(0, 0, 0, 0.2);"/>
+             style="border-radius: 50px; box-shadow: 4px 4px 15px rgba(0, 0, 0, 0.2);"/>
     </a>
 </div>
 
