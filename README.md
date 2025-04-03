@@ -51,7 +51,7 @@
 ## 🤝 ¡Conectemos!
 
 <p align="center">
-    <a href="https://www.linkedin.com/in/joelabregu/" target="_blank">
+    <a href="https://www.linkedin.com/in/joel-abregu/" target="_blank">
         <img alt="LinkedIn" width="28px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Linkedin.svg"/>
     </a> &nbsp;
     <a href="mailto:abregumanriquef@gmail.com">
