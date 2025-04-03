@@ -57,7 +57,7 @@
     <a href="mailto:abregumanriquef@gmail.com">
         <img alt="Gmail" width="30px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Gmail.svg"/>
     </a> &nbsp;
-    <a href="https://wa.me/51987654321" target="_blank">
+    <a href="https://wa.me/51977470126" target="_blank">
         <img alt="WhatsApp" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/6/6b/WhatsApp.svg"/>
     </a>
 </p>
